@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fucker/static/css/main.ecf3183e.chunk.css",
+    "main.css": "/Fucker/static/css/main.fa202297.chunk.css",
     "main.js": "/Fucker/static/js/main.dd5f9129.chunk.js",
     "main.js.map": "/Fucker/static/js/main.dd5f9129.chunk.js.map",
     "runtime-main.js": "/Fucker/static/js/runtime-main.c72f4e45.js",
@@ -10,13 +10,13 @@
     "static/js/3.2a524639.chunk.js": "/Fucker/static/js/3.2a524639.chunk.js",
     "static/js/3.2a524639.chunk.js.map": "/Fucker/static/js/3.2a524639.chunk.js.map",
     "index.html": "/Fucker/index.html",
-    "static/css/main.ecf3183e.chunk.css.map": "/Fucker/static/css/main.ecf3183e.chunk.css.map",
+    "static/css/main.fa202297.chunk.css.map": "/Fucker/static/css/main.fa202297.chunk.css.map",
     "static/js/2.3059d40e.chunk.js.LICENSE.txt": "/Fucker/static/js/2.3059d40e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c72f4e45.js",
     "static/js/2.3059d40e.chunk.js",
-    "static/css/main.ecf3183e.chunk.css",
+    "static/css/main.fa202297.chunk.css",
     "static/js/main.dd5f9129.chunk.js"
   ]
 }
