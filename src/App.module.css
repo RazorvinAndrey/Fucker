@@ -1,0 +1,46 @@
+.AppWrapper {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(50px, auto);
+
+}
+.one {
+  background: lightgreen;
+  padding: 10px;
+  border: solid 2px darkgrey;
+  min-height: 50px;
+  min-width: 100px;
+  grid-column: 1 / 9;
+  grid-row: 1;
+}
+.two {
+  background: lightgreen;
+  padding: 10px;
+  border: solid 2px darkgrey;
+  border-radius: 8px;
+  min-height: 50px;
+  min-width: 100px;
+  grid-column: 1;
+  grid-row: 2 / 15;
+}
+.three {
+  background: lightgreen;
+  padding: 10px;
+  border: solid 2px darkgrey;
+  border-radius: 8px;
+  min-height: 50px;
+  min-width: 100px;
+  grid-column: 2 / 9;
+  grid-row: 2 / 15;
+}
+.four {
+  background: lightgreen;
+  padding: 10px;
+  border: solid 2px darkgrey;
+  border-radius: 8px;
+  min-height: 50px;
+  min-width: 100px;
+  grid-column: 1 / 9;
+  grid-row: 15 / 17;
+}
