@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fucker/static/css/main.5301be54.chunk.css",
+    "main.css": "/Fucker/static/css/main.04b29e8d.chunk.css",
     "main.js": "/Fucker/static/js/main.de7e3d68.chunk.js",
     "main.js.map": "/Fucker/static/js/main.de7e3d68.chunk.js.map",
     "runtime-main.js": "/Fucker/static/js/runtime-main.c72f4e45.js",
@@ -10,13 +10,13 @@
     "static/js/3.2a524639.chunk.js": "/Fucker/static/js/3.2a524639.chunk.js",
     "static/js/3.2a524639.chunk.js.map": "/Fucker/static/js/3.2a524639.chunk.js.map",
     "index.html": "/Fucker/index.html",
-    "static/css/main.5301be54.chunk.css.map": "/Fucker/static/css/main.5301be54.chunk.css.map",
+    "static/css/main.04b29e8d.chunk.css.map": "/Fucker/static/css/main.04b29e8d.chunk.css.map",
     "static/js/2.87ba7351.chunk.js.LICENSE.txt": "/Fucker/static/js/2.87ba7351.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c72f4e45.js",
     "static/js/2.87ba7351.chunk.js",
-    "static/css/main.5301be54.chunk.css",
+    "static/css/main.04b29e8d.chunk.css",
     "static/js/main.de7e3d68.chunk.js"
   ]
 }
